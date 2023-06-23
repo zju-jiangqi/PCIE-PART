@@ -1,4 +1,4 @@
-### PSF-aware Aberration-image Restoration Transformer (PART) for Panoramic Computational Imaging Prototype
+### PSF-aware Aberration-image Restoration Transformer (PART) for Panoramic Computational Imaging Engine (PCIE)
 PART is desinged for recovering high-resolution and aberration-free panoramic images from low-quality images taken by minimalist panoramic imaging systems. 
 
 The new dataset PALHQ and the codes of PART will be realeased soon.
