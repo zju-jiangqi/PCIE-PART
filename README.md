@@ -1,4 +1,3 @@
-![image](https://github.com/zju-jiangqi/PCIE-PART/assets/88372739/5071e3c2-17c0-4ee0-a466-3a2cce1bf465)
 ### PSF-aware Aberration-image Restoration Transformer (PART) for Panoramic Computational Imaging Prototype
 PART is desinged for recovering high-resolution and aberration-free panoramic images from low-quality images taken by minimalist panoramic imaging systems. 
 
